@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# **Full-Stack Next.js E-Commerce Platform**
 
-## Getting Started
+This project is a fully responsive, full-stack e-commerce platform built with **Next.js**, optimized for **SEO** and seamless **backend integration**. The platform offers a smooth shopping experience with **dynamic product filtering**, **secure authentication**, and a **modern, visually appealing design**.
 
-First, run the development server:
+## **🔑 Authentication & Security**
+To ensure a **fast and secure login experience**, the platform uses **Clerk** for authentication, providing an **efficient and user-friendly sign-in process**.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## **🛒 Product Management & Payments**
+The project integrates **Wix Headless** for **easy product management**, enabling seamless **addition, updating, and organization of products**.  
+The platform supports a **wide range of payment methods**, ensuring a **smooth checkout experience** for all users.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## **🔍 Advanced Product Filtering**
+Users can easily find the products they need with a **powerful filtering system**, allowing searches based on:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Price range**
+- **Category**
+- **Product type** (digital or physical)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## **Modern UI & Responsive Design**
+Built with **Tailwind CSS** and **Shadcn UI**, ensuring a **modern and sleek design**.
 
-## Learn More
+✅ **Fully responsive layout**, adapting to all screen sizes for an **optimal shopping experience**.  
+✅ **Interactive slides** on the homepage enhance engagement, allowing users to **dynamically navigate through featured products**.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+# Screenshots
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![Screenshot](./screenshot/img1.PNG)
 
-## Deploy on Vercel
+![Screenshot](./screenshot/img2.PNG)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![Screenshot](./screenshot/img3.PNG)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+This **Next.js e-commerce platform** offers **performance, security, and a seamless shopping experience**, making it an excellent foundation for any online store. 
