@@ -26,7 +26,7 @@ Built with **Tailwind CSS** and **Shadcn UI**, ensuring a **modern and sleek des
 
 # Screenshots
 
-![Screenshot](./screenshot/img1.PNG)
+![Screenshot](./screenshot/img1.png)
 
 ![Screenshot](./screenshot/img2.PNG)
 
